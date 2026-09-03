@@ -425,4 +425,4 @@ kustomize build | kubectl apply -f -
 ![Movie details](docs/frontend-movie-details.png)
 
 ### Backend — API Response
-![Backend curl output](docs/backend-curl-output.png)
+![Backend curl output](docs/backend-curl-output.png) 
