@@ -419,10 +419,10 @@ kustomize build | kubectl apply -f -
 **Backend URL:** http://a0c4f4b0759e3401b8e4b41a8db23fb9-1844301916.us-east-1.elb.amazonaws.com/movies
 
 ### Frontend — Movie List
-![Frontend movie list](docs/screenshots/frontend-movie-list.png)
+![Frontend movie list](docs/frontend-movie-list.png)
 
 ### Frontend — Movie Details (click-through)
-![Movie details](docs/screenshots/frontend-movie-details.png)
+![Movie details](docs/frontend-movie-details.png)
 
 ### Backend — API Response
-![Backend curl output](docs/screenshots/backend-curl-output.png)
+![Backend curl output](docs/backend-curl-output.png)
