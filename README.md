@@ -410,3 +410,19 @@ kustomize build | kubectl apply -f -
 ## License
 
 [License](LICENSE.md)
+
+
+## Deployment Verification
+
+**Frontend URL:** http://a310bc684f9a74634b4ba27ba8ac976f-753624828.us-east-1.elb.amazonaws.com
+
+**Backend URL:** http://a0c4f4b0759e3401b8e4b41a8db23fb9-1844301916.us-east-1.elb.amazonaws.com/movies
+
+### Frontend — Movie List
+![Frontend movie list](docs/screenshots/frontend-movie-list.png)
+
+### Frontend — Movie Details (click-through)
+![Movie details](docs/screenshots/frontend-movie-details.png)
+
+### Backend — API Response
+![Backend curl output](docs/screenshots/backend-curl-output.png)
